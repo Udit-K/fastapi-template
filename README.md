@@ -1,7 +1,7 @@
 
 # Fast API Template
 
-## A baseline repositopry to use as a template while creating new Fast API framework based services. 
+## A baseline repository to use as a template while creating new Fast API framework based services. 
 
 ### List of Items that have already been setup:  
 
